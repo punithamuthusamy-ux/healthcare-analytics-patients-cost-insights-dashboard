@@ -214,5 +214,4 @@ Feel free to contribute or suggest improvements via GitHub or LinkedIn!
 ---
 
 ⭐ *If this dashboard inspired you, consider starring the repository!*
-🚀 *Driving better healthcare decisions through data analytics!*
-# healthcare-analytics-patients-cost-insights-dashboard
+🚀 *Driving better healthcare decisions through data analytics!* 
